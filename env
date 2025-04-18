@@ -1,0 +1,7 @@
+# API Keys
+OPENAI_API_KEY=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
+
+# Optional: Other configurations
+# For example, if TARS-AI uses other services or settings, include them here
+# SERVICE_URL=https://example.com
+# DEBUG_MODE=true

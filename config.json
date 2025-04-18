@@ -1,0 +1,17 @@
+{
+    "name": "TARS AI",
+    "version": "1.0.0",
+    "slug": "tars_ai",
+    "description": "TARS AI Chat Assistant running locally",
+    "startup": "services",
+    "boot": "auto",
+    "init": false,
+    "panel_icon": "mdi:robot",
+    "ports": {
+      "5000/tcp": 5000
+    },
+    "ingress": false,
+    "arch": ["aarch64", "amd64"],
+    "options": {},
+    "schema": {}
+  }
