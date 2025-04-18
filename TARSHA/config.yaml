@@ -1,6 +1,6 @@
 name: "TARS AI"
 version: "1.0.1"
-slug: "tars_ai"
+slug: "tarsha_ai"
 description: "Run TARS-AI assistant inside Home Assistant"
 startup: services
 boot: auto
