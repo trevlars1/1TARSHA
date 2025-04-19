@@ -11,7 +11,7 @@ arch:
 
 # 👇 This adds the input field
 options:
-  openai_api_key: ""
+  openai_api_key: "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"
 
 schema:
   openai_api_key: "str"
