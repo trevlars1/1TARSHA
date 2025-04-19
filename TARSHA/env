@@ -1,5 +1,5 @@
 # API Keys
-OPENAI_API_KEY=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
+OPENAI_API_KEY=
 
 # Optional: Other configurations
 # For example, if TARS-AI uses other services or settings, include them here
@@ -7,4 +7,3 @@ OPENAI_API_KEY=sk-proj-D6jz5NAZMya0TfkshVzLSj76VuRWkOkg7u-bNou1nYo22SdVDLx9nostI
 # DEBUG_MODE=true
 
 # Token
-ha_access_token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJlMWFlYjgzMzI0Mjk0YmYyOWI2ZjBjNGEwMDljM2FkYSIsImlhdCI6MTc0NTA3MTEyNywiZXhwIjoyMDYwNDMxMTI3fQ.gEfCWlw63NBhmfiBNkKOkXFzSXEX4TWZSflW4CYgpbU
